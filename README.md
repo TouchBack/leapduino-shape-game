@@ -1,7 +1,7 @@
-Leapduino RGB LED/Motor Test
-============================
+Leapduino Test: Cube or Sphere?
+===============================
 
-This is a prototype Leap/Arduino integration program that converts data from the Leap into a message which is sent to the Arduino (via USB) to control the color of an RGB LED and then intensity of a vibration motor.
+This is a prototype Leap/Arduino integration program that uses our haptic feecback system to facilitate a simple shape guessing game.
 
 Notes
 -----
